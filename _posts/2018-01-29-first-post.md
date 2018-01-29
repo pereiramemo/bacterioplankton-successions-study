@@ -6,4 +6,4 @@ categories:  new post
 permalink: /post/
 ---
 
-#### #### Sampling timetable can be downloaded from [here](https://mail.google.com/mail/u/1/#search/ceci.babilonia%40gmail.com/16124536344be733?projector=1&messagePartId=0.1)
+#### #### Sampling timetable can be downloaded from [here](https://docs.google.com/spreadsheets/d/1PuaexZt02gXQKmTIEWjWQBqPNUY1C9MCtiIZR_XqJiY/edit?usp=sharing)
