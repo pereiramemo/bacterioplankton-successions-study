@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objetives
-permalink: /about/
+permalink: bacterioplankton-successions-study/about/
 ---
 
 ### 1) To evaluate if recurrent taxonomic and functional bacterioplankton successions related to algal blooms observed at the German Bight also occur at the Uruguayan Atlantic coast.
