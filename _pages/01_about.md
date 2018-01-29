@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Objetives
 permalink: /about/
 ---
 
