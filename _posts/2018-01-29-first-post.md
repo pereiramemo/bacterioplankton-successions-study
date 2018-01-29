@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sampling campaign"
-date:   2018-01-29
+title: "Sampling campaign"
+date: 2018-01-29
 categories:  new post
 permalink: /post/
 ---
